@@ -1,0 +1,296 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 35px;
+    padding-top: 20px;
+}
+.pages{
+    word-spacing: 15px;
+    padding-right: 35px;
+}
+.Hero-taxt {
+    width: 500px;
+    padding: 100px;
+    
+}
+.hero-Heading {
+ font-size: 30px;
+}
+.Hero-Button{
+    border: none;
+   background-color: dimgrey;
+   color: aliceblue;
+   width:150px ;
+   height: 65px;
+}
+.Button-Section{
+    padding-top: 80px;
+}
+
+.Hero-section{
+    display: flex;
+    justify-content: space-between;
+}
+.Hero-img{
+    display: inline;
+    width: 400px;
+    height: 370px;
+    position: relative;
+    right: 100px;
+    top: 100px;
+}
+.goggle{
+   width: 80px;
+   height: 80px;
+}
+.nike{
+    width: 80px;
+    height: 80px;
+}
+.Samsing{
+    width: 80px;
+    height: 80px;
+}
+.Apple{
+     width: 80px;
+    height: 80px;
+}
+.adidas{
+     width: 80px;
+    height: 80px;
+    background-color: aliceblue;
+}
+.companise{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.disign{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.circle{
+    width: 100px;
+    height: 100px;
+   padding-left: 120px;
+     padding-right: 120px;
+     padding-top: 120px;
+}
+.Star{
+     width: 100px;
+    height: 100px;
+    padding-left: 120;
+     padding-right: 120px;
+     padding-top: 120px;
+}
+.tringle{
+     width: 100px;
+    height: 100px;
+     padding-left: 120;
+     padding-right: 120px;
+     padding-top: 120px;
+}
+.Dsign-text {
+    display: flex;
+    justify-content: space-between;
+}
+.Product-Design{
+    padding-left: 100px;
+    padding-top: 20px;
+     font-size: x-large;
+}
+.Visual-Design{
+     padding-top: 20px;
+     padding-right: 10px;
+     font-size: x-large;
+}
+.Art-Direction {
+     padding-top: 20px;
+    padding-right: 100px;
+     font-size: x-large;
+}
+.Details{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.text{
+padding-left: 30px;
+width: 500px;
+
+}
+.text-02{
+width: 500px;
+padding-right: 50px;
+padding-left: 50px;
+}
+.text-3{
+width: 500px;
+}
+.Projects-H{
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+    font-size: xx-large;
+}
+.img-01{
+    display: flex;
+    justify-content: space-between;
+}
+.pinterest-01{
+    width: 300px;
+    height: 300px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+.pinterest-02{
+     width: 300px;
+    height: 300px;
+     padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+.pinterest-03{
+    width: 300px;
+    height: 300px;
+   padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+.tittle-01{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.T-text-01 {
+   padding-left: 50px;
+}
+.T-text-02{
+   
+    padding-left: 10px;
+}
+.T-text-03{
+  
+    padding-right: 240px;
+}
+.Testimonials{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    position: relative;
+}
+.Testimonials-01 {
+background-color: antiquewhite;
+width: 600px;
+height: 200px;
+margin-right: 20px;
+margin-left: 20px;
+padding-left: 40px;
+padding-right: 20px;
+padding-top: 20px;
+
+}
+.Testimonials-02 {
+background-color: antiquewhite;
+margin-right: 20px;
+margin-left: 20px;
+height: 200px;
+width: 600px;
+padding-left: 40px;
+padding-right: 20px;
+padding-top: 20px;
+}
+.Testimonials-03 {
+background-color: antiquewhite;
+margin-right: 20px;
+margin-left: 20px;
+height: 200px;
+width: 600px;
+padding-left: 40px;
+padding-right: 20px;
+padding-top: 20px;
+}
+.Profile{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+.rating{
+    position: absolute;
+    bottom: 130px;
+    left: 170px;
+}
+.rating-02{
+position: absolute;
+left: 550px;
+}
+.rating-03{
+position: absolute;
+left: 930px;
+top: 165px;
+}
+.profile-name-01 {
+    position: absolute;
+    left: 170px;
+    
+}
+.profile-name-02 {
+    position: absolute;
+    left: 550px;
+}
+.profile-name-03 {
+     position: absolute;
+    left: 930px;
+    top: 170px;
+    
+}
+.Testimonials-04{
+    background-color: antiquewhite;
+margin-right: 20px;
+margin-left: 20px;
+height: 200px;
+width: 275px;
+padding-left: 40px;
+padding-right: 20px;
+padding-top: 20px;
+
+}
+.Join-us{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+}
+.Join-us-H {
+    font-size: xx-large;
+}
+.Join-us-text{
+    width: 500px;
+}
+.Icons{
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+.Join-us-inp{
+margin: 50px;
+}
+.inp{
+border: none;
+background-color: darkgrey;
+width: 400px;
+height: 10px;
+margin: 5px;
+padding: 15px;
+
+}
+.Submit{
+ margin: 50px;
+ border: none;
+ background-color: black;
+ color: aliceblue;
+ width: 150px;
+ height: 55px;
+}
